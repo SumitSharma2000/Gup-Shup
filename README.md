@@ -24,7 +24,7 @@ To get started with the React Chat Application, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone: https://github.com/yourusername/react-chat-application.git
+git clone: https://github.com/sumitsharma2000/Gup-Shup.git
 
 Navigate to the project directory:
 
@@ -43,7 +43,7 @@ Contributing :
 We welcome contributions from the community to improve the React Chat Application. If you encounter any bugs, have feature requests, or want to contribute enhancements, feel free to open an issue or submit a pull request.
 
 Some Screenshots 
-![Screenshot (169)](https://github.com/SumitSharma2000/Gup-Shup/assets/94536005/7bd659d9-db46-4887-a118-a97332a4d68f)
-![Screenshot (168)](https://github.com/SumitSharma2000/Gup-Shup/assets/94536005/4c52be00-678a-4d8e-86a9-07adff9922aa)
 ![Screenshot (167)](https://github.com/SumitSharma2000/Gup-Shup/assets/94536005/d82bb5cb-761a-4b55-bc84-b2bf7673f299)
+![Screenshot (168)](https://github.com/SumitSharma2000/Gup-Shup/assets/94536005/4c52be00-678a-4d8e-86a9-07adff9922aa)
+![Screenshot (169)](https://github.com/SumitSharma2000/Gup-Shup/assets/94536005/7bd659d9-db46-4887-a118-a97332a4d68f)
 
